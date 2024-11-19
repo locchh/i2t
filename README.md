@@ -1,2 +1,2 @@
 # i2t
-small multimodal
+ small multimodal model 
